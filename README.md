@@ -75,7 +75,7 @@ LinkedIn's bias is in the right direction: those looking for a job are more like
 
 
 
-## Salary estimates
+# Salary estimates
 
 - indeed
 - glass door
@@ -86,7 +86,7 @@ LinkedIn's bias is in the right direction: those looking for a job are more like
 
 
 
-## getting names of law students
+# getting names of law students
 
 http://gradedistribution.registrar.indiana.edu/reports.php?school=LAW&term=4135&rept=1&result=HTM
 
@@ -94,7 +94,7 @@ http://gradedistribution.registrar.indiana.edu/reports.php?school=LAW&term=4135&
 
 
 
-### other desiderata
+# other desiderata
 
 - number of students in each graduating class (from the school's page), to see what % of alumni we've found
 - https://www.youtube.com/watch?v=gjx3JwR1F4s&t=57s "In 2008, the job market for lawyers contracted" ![number of lawyers growing year-on-year 2000-2009. source unknown][wolf]
