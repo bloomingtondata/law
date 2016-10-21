@@ -29,6 +29,10 @@ Tamanaha, in _Failing Law Schools_, claims 50% non-response rates and various sh
 
 - https://www.youtube.com/watch?v=gjx3JwR1F4s [3:37]
 - <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=Jh6gLEAuP3YC&lpg=PP1&pg=PP1&output=embed" width=500 height=500></iframe>
+- http://www.fed-soc.org/publications/detail/are-american-law-schools-failing-an-exchange-between-brian-tamanaha-harold-see
+- https://www.washingtonpost.com/opinions/book-review-failing-law-schools-by-brian-z-tamanaha/2012/08/03/e7054c9c-c6df-11e1-916d-a4bc61efcad8_story.html?utm_term=.56aec2d034af
+ "Thousands of liberal arts BAs grew up on those assumptions. “Everyone is pre-law,” journalist Michael Kinsley quipped, “until the day they enter medical school.” A JD himself, Kinsley knew whereof he spoke."
+ - http://www.wsj.com.proxyiub.uits.iu.edu/articles/SB10001424052702304458604577486623469958142
 
 Prospective students are interested in the % employed in law and the salary distribution. Administrators have been dishonest in reporting 
 
