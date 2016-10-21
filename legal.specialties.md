@@ -234,3 +234,27 @@ http://apps.law.indiana.edu/alumni/directory/search.shtml
 				<option value="YC">Corporate Social Responsibility</option>
 
 				<option value="ZL">Zoning and Land Use</option>
+
+
+
+http://www.princetonreview.com/law-school-advice/law-specializations
+https://www.brown.edu/academics/college/advising/law-school/fields-law/fields-law
+http://www.lsac.org/jd/thinking-about-law-school/fields-of-law
+https://en.wikipedia.org/wiki/List_of_areas_of_law
+
+
+
+
+There may be more ways to make even more specialized microsites.
+
+
+
+ls.calbar.ca.gov
+http://www.americanbar.org/publications/law_practice_today_home/law_practice_today_archive/march11/niche_specialization_for_lawyers.html
+
+http://www.directlaw.com/
+http://www.walzgroup.com/
+![virtual lawyering][http://www.americanbar.org/content/dam/aba/images/law_practice_management/directlaw_ad.jpg]
+
+![booth 504][http://www.americanbar.org/content/dam/aba/images/law_practice_management/walz_ad.gif]
+![abacus][http://www2.americanbar.org/calendar/TECHSHOW/PublishingImages/lpt/Abacus64-LPT-Book.jpg] http://www.abacuslaw.com/dt/t.php?id=64
