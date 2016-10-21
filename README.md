@@ -28,6 +28,7 @@ We particularly want to detect law students who end up working outside law in lo
 Tamanaha, in _Failing Law Schools_, claims 50% non-response rates and various shady techniques are used to massage matriculant-facing salary figures.
 
 - https://www.youtube.com/watch?v=gjx3JwR1F4s [3:37]
+- <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=Jh6gLEAuP3YC&lpg=PP1&pg=PP1&output=embed" width=500 height=500></iframe>
 
 Prospective students are interested in the % employed in law and the salary distribution. Administrators have been dishonest in reporting 
 
@@ -49,11 +50,9 @@ LinkedIn's bias is in the right direction: those looking for a job are more like
 
 ## Getting the lawyers' perspective
 
-https://balkin.blogspot.com/2010/06/wake-up-fellow-law-professors-to.html
-
-www.lawyersgunsmoneyblog.com/
-
-http://abovethelaw.com/tag/law-blogs/
+- https://balkin.blogspot.com/2010/06/wake-up-fellow-law-professors-to.html
+- www.lawyersgunsmoneyblog.com/
+- http://abovethelaw.com/tag/law-blogs/
 
 
 
@@ -72,7 +71,7 @@ http://abovethelaw.com/tag/law-blogs/
 ### other desiderata
 
 - number of students in each graduating class (from the school's page), to see what % of alumni we've found
-- https://www.youtube.com/watch?v=gjx3JwR1F4s&t=57s "In 2008, the job market for lawyers contracted" ![wolf][number of lawyers growing year-on-year 2000-2009. source unknown]
+- https://www.youtube.com/watch?v=gjx3JwR1F4s&t=57s "In 2008, the job market for lawyers contracted" ![number of lawyers growing year-on-year 2000-2009. source unknown][wolf]
 
 
 
