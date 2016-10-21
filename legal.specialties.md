@@ -258,3 +258,43 @@ http://www.walzgroup.com/
 
 ![booth 504][http://www.americanbar.org/content/dam/aba/images/law_practice_management/walz_ad.gif]
 ![abacus][http://www2.americanbar.org/calendar/TECHSHOW/PublishingImages/lpt/Abacus64-LPT-Book.jpg] http://www.abacuslaw.com/dt/t.php?id=64
+http://apps.americanbar.org/abastore/index.cfm?section=main&fm=Product.AddToCart&pid=5110716
+
+http://apps.americanbar.org/abastore/index.cfm?section=main&fm=Product.AddToCart&pid=5110712
+
+http://www.americanbar.org/content/aba/publications/law_practice_today_home/law_practice_today_archive/march11/digital_edge.html
+
+http://www.americanbar.org/content/aba/publications/law_practice_magazine.html
+
+http://www.michiganautolaw.com/auto-lawyers-blog/index.php
+
+http://ls.calbar.ca.gov/LegalSpecialization/LegalSpecialtyAreas.aspx
+
+https://www.thebalance.com/hot-law-practice-areas-2164644
+
+https://www.thebalance.com/legal-career-strategies-4073679
+
+http://law.nd.edu/academics/programs-of-study/
+
+https://www.google.com/search?client=ubuntu-browser&biw=1918&bih=946&q=fields+of+law+that+make+most+money&sa=X&ved=0ahUKEwjB1uLU7erPAhXGuhQKHR8DCl8Q1QIIZygF
+
+https://www.google.com/search?client=ubuntu-browser&biw=1918&bih=946&q=branches+of+law+to+study&sa=X&ved=0ahUKEwjB1uLU7erPAhXGuhQKHR8DCl8Q1QIIaCgG
+
+https://www.google.com/search?client=ubuntu-browser&biw=1918&bih=946&q=different+types+of+law+careers&sa=X&ved=0ahUKEwjB1uLU7erPAhXGuhQKHR8DCl8Q1QIIaSgH
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj1uK6h7urPAhVESBQKHdvhDPYQFggkMAE&url=http%3A%2F%2Fwww.discoverlaw.org%2Fconsidering%2Fquiz%2F&usg=AFQjCNHVT0ou1SEcJww32JVkzSBhJsqJdg
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj1uK6h7urPAhVESBQKHdvhDPYQFggeMAA&url=http%3A%2F%2Fwww.lawyeredu.org%2Flaw-careers.html&usg=AFQjCNG7YyHFvh8c_W4MEIJ29pj9vy-N-A
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwj1uK6h7urPAhVESBQKHdvhDPYQFggwMAM&url=http%3A%2F%2Flegalcareerpath.com%2Flegal-careers%2F&usg=AFQjCNHKazPa6vVuTRYINgRMQnsdHa0Wpg
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwj1uK6h7urPAhVESBQKHdvhDPYQFgg2MAQ&url=http%3A%2F%2Fprelaw.umass.edu%2Ftopics%2Fcategory%2Fwhat_legal_careers_are_available&usg=AFQjCNHLGzy14t3lmDtd2RV1lOvcXJVtkg
+
+https://www.google.com/search?client=ubuntu-browser&biw=1918&bih=946&q=breakfast+law&sa=X&ved=0ahUKEwjB1uLU7erPAhXGuhQKHR8DCl8Q1QIIZSgD
+
+https://www.google.com/search?client=ubuntu-browser&biw=1918&bih=946&q=5+types+of+law&sa=X&ved=0ahUKEwjB1uLU7erPAhXGuhQKHR8DCl8Q1QIIZCgC
+
+https://www.google.com/search?client=ubuntu-browser&biw=1918&bih=946&q=highest+paying+fields+of+law&sa=X&ved=0ahUKEwjB1uLU7erPAhXGuhQKHR8DCl8Q1QIIYigA
+
+https://www.google.com/search?client=ubuntu-browser&biw=1918&bih=946&q=classification+of+law&sa=X&ved=0ahUKEwjB1uLU7erPAhXGuhQKHR8DCl8Q1QIIZigE
+
